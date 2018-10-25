@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Oct 25 14:37:23 BST 2018
+1.base=C\:\\Users\\Eddy\\libmuse_6.0.3\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=lib/armeabi-v7a/libmuse_android.so
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\Eddy\\libmuse_6.0.3\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\0
+1.path=classes.dex

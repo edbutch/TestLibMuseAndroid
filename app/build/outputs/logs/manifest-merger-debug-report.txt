@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:15:5-30:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.choosemuse.example.libmuse.MainActivity
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:21:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Eddy\libmuse_6.0.3\android\examples\TestLibMuseAndroid\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d10d793fcfa051f9dcaf425f3b165ca8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b70b0508bdc77ac8c3bb583056367f39\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4a8dceaa7c7f8702e021559c2e5ba21d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\383279e7102a0e42d074e44ecf602d19\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b591485e2761e5475dc36b346941193e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d33dbca476d36515f96203e7878fcd17\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Eddy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0a70c36515717ab77686855c779046b8\AndroidManifest.xml:26:13-58
